@@ -1,4 +1,4 @@
-# Zomato-Restaurants-Analysis-using-Excel-Sql-PowerBI-and-Tableau.
+# Zomato-Restaurants-Analysis-using-Excel-Sql-PowerBI
 Zomato Restaurant Data Analysis Project
 This project involved analyzing Zomato restaurant data using advanced Excel functions and SQL queries, and creating interactive dashboards using Power BI. The objectives of the project were:
 
